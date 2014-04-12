@@ -3,5 +3,5 @@ date: 2014-4-12
 comments: true
 slug: hello-world
 
-Work in progress...
+Testing 1, 2, 3
 
