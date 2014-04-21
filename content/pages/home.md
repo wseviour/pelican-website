@@ -1,4 +1,4 @@
-title: About
+title: William Seviour
 save_as: index.html
 
 <!-- <img src="/images/will.jpg" align="right" width="280"> -->
