@@ -6,7 +6,7 @@ save_as: index.html
 <img src="/images/will.jpg" width="280" style="float:right; margin: 1em 0 4em
 2em;" title="Hiking the Kepler Track in New Zealand after the 2014 SPARC GA!"/>
 
-I am a postdoctoral reasercher in the
+I am a postdoctoral fellow in the
 [Department of Earth and Planetary Sciences](http://eps.jhu.edu/) at [Johns
 Hopkins University](http://jhu.edu/).
 
