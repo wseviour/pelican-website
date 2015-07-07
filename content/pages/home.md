@@ -17,6 +17,7 @@ in projections of regional climate change. At the moment, I am investigating how
 ozone depletion and greenhouse gases influence past and future climate in the
 Antarctic and Southern Ocean.
 
+<!--
 Previously, I was a graduate student in the
 [Stratosphere and Climate Group](http://www2.physics.ox.ac.uk/research/stratosphere-and-climate)
 of
@@ -28,6 +29,8 @@ co-supervised by
 [Steven Hardiman](http://www.metoffice.gov.uk/research/our-scientists/climate-chemistry-ecosystems/steven-hardiman)
 as part of a CASE studentship with the Met Office. Before that I completed an
 MSci in Natural Sciences at the University of Cambridge.
+-->
+
 
 [You can view my CV here.](https://docs.google.com/document/d/1FemGjRtLl9aGJwPRqmXSjJoIl67tkONhDSKprFpBCLo/pub)
 
