@@ -24,6 +24,10 @@ save_as: publications.html
 
 ## Other
 
+- Seviour, W. J. M., N. (2014), **Variability of the polar stratosphere and its
+  influence on surface weather an climate**, D.Phil. Thesis
+  [[pdf]](/downloads/pdfs/Seviour_thesis.pdf)
+
 - Butler, A. H., E. P. Gerber, D. M. Mitchell and W. J. M. Seviour (2014), New
   Efforts to Update the Standard Definition of Sudden Stratospheric Warmings,
   SPARC Newsletter, _SPARC Newsletter_ No. 43, July 2014. [[pdf]](http://www.sparc-climate.org/fileadmin/customer/6_Publications/Newsletter_PDF/43_SPARCnewsletter_Jul2014_WEB.pdf)
