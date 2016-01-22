@@ -4,6 +4,12 @@ save_as: publications.html
 
 ## Peer-reviewed 
 
+- Seviour, W. J. M., L. J. Gray, and D. M. Mitchell (2016). **Stratospheric
+  polar vortex splits and displacements in the high-top CMIP5 climate models**,
+  _J. Geophys. Res._, in press
+  [[pdf]](/downloads/pdfs/Seviour_etal_2016_submitted.pdf)
+
+
 - Seviour, W. J. M., S. C. Hardiman, L. J. Gray, N. Butchart, C. MacLachlan and
   A. A. Scaife (2014). **Skillful seasonal prediction of the Southern Annular Mode
   and Antarctic Ozone**,
@@ -25,7 +31,7 @@ save_as: publications.html
 ## Other
 
 - Seviour, W. J. M., N. (2014), **Variability of the polar stratosphere and its
-  influence on surface weather an climate**, D.Phil. Thesis
+  influence on surface weather and climate**, D.Phil. Thesis
   [[pdf]](/downloads/pdfs/Seviour_thesis.pdf)
 
 - Butler, A. H., E. P. Gerber, D. M. Mitchell and W. J. M. Seviour (2014), New

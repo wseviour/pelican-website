@@ -13,9 +13,10 @@ Hopkins University](http://jhu.edu/).
 My interests are in better understanding the dynamics of the Earth's atmosphere,
 which is a
 [major source of uncertainty](http://www.nature.com/ngeo/journal/v7/n10/full/ngeo2253.html)
-in projections of regional climate change. At the moment, I am investigating how
+in regional predictions of climate change. At the moment, I am investigating how
 ozone depletion and greenhouse gases influence past and future climate in the
-Antarctic and Southern Ocean.
+Antarctic and Southern Ocean, as part of the NSF Frontiers in Earth System
+Dynamics [Ozone and Climate Project](https://ozoneandclimate.squarespace.com/).
 
 <!--
 Previously, I was a graduate student in the
