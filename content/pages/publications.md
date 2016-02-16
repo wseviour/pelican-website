@@ -7,7 +7,7 @@ save_as: publications.html
 - Seviour, W. J. M., L. J. Gray, and D. M. Mitchell (2016). **Stratospheric
   polar vortex splits and displacements in the high-top CMIP5 climate models**,
   _J. Geophys. Res._, 121, [doi:10.1002/2015JD024178](http://onlinelibrary.wiley.com/doi/10.1002/2015JD024178/full)
-  [[pdf]](/downloads/pdfs/Seviour_etal_2016_submitted.pdf)
+  [[pdf]](/downloads/pdfs/Seviour_etal_2016.pdf)
 
 - Seviour, W. J. M., S. C. Hardiman, L. J. Gray, N. Butchart, C. MacLachlan and
   A. A. Scaife (2014). **Skillful seasonal prediction of the Southern Annular Mode
